@@ -1,5 +1,7 @@
 # POC utilizando a biblioteca Exceljs
 
+Biblioteca Exceljs: https://github.com/exceljs/exceljs
+
 ## Links
 
 #### Cores ARGB
