@@ -2,12 +2,21 @@
 
 Biblioteca Exceljs: https://github.com/exceljs/exceljs
 
+
+
 ## Links
 
 #### Cores ARGB
 ##### Converter cores Hexadecimais para ARGB
 -  https://www.myfixguide.com/color-converter/
 __________________________________
+
+| POSSIVEL | ESTUDO |
+| --- | --- |
+| ✔️ | Customização das linhas e colunas: fonte, cor, tabulação |
+| ✔️ | Impressão de imagem: queremos gerar com logos no cabeçalho |
+| ❌ | Impressão de gráficos(https://github.com/exceljs/exceljs/issues/1173, https://github.com/exceljs/exceljs/issues/307) |
+
 Observação de estudo:
 >
 > Foi estudo a possibilidade de lidar com planilhas como template, ou seja, editar uma planilha existente.
